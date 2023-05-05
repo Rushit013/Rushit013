@@ -41,7 +41,7 @@ While I don't stick to a specific stack, here are some things I have worked with
 
 Feel free to visit my website **[rushitjivani.netlify.app](https://rushitjivani.netlify.app)** to explore some of my recent **projects** and find more about me.
 
-I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://linkedin.com/in/rushit-jivani-a0a329194)** or my **[Website](https://rushitjivani.netlify.app)**.
+I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://linkedin.com/in/rushitjivani)** or my **[Website](https://rushitjivani.netlify.app)**.
 
 
 ---
@@ -56,6 +56,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 ### Connect with me:
 
 
-👨‍💼 **[Linkedin](https://linkedin.com/in/rushit-jivani-a0a329194)**
+👨‍💼 **[Linkedin](https://linkedin.com/in/rushitjivani)**
 
 🌎 **[Website](https://rushitjivani.netlify.app)**
