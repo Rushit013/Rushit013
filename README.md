@@ -48,7 +48,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 
 ## **Stats** ⚡
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushit013)](https://github.com/anuraghazra/github-readme-stats)
+![Rushit Jivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushit013&count_private=true&include_all_commits=true&show_icons=true)
 
 
 ---
