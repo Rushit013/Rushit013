@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rushit013/Rushit013/main/GithubThumbnail.png" alt="Banner of Rushit Jivani | Rushit013">
+![GithubThumbnail](https://github.com/Rushit013/Rushit013/assets/60570262/34859ebf-b1ae-441a-818d-8432dcef5ba6)
 
 ### Hi there 👋
 
